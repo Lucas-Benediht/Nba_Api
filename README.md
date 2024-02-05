@@ -28,7 +28,7 @@ A **API NBA** foi projetada para fornecer uma interface RESTful para interagir c
 ### Times
 
 - **GET /api/Times**: Recupera todos os times.
-- **GET /api/Times/jogadores**: Recupera um time juntamente com seus jogadores.
+- **GET /api/Times/jogadores**: Recupera todos os times juntamente com seus jogadores.
 - **GET /api/Times/{id}**: Recupera um time por ID.
 - **POST /api/Times**: Cria um novo time.
 - **PUT /api/Times/{id}**: Atualiza um time por ID.
